@@ -11,7 +11,7 @@ Furnishing: Is Fully Furnished , Semi Furnished or Unfurnished
 Area: Area in sqft
 Price: Price in Rs.
 Locality: Locality name
-Parking: Is parking available
+Parking: Is parking available 
 Power: Is power backup available
 Pool: Is pool available
 Security: Is security guard available
